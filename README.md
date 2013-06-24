@@ -1,6 +1,6 @@
 # connect-fonts-sourcecodepro
 
-Source Code Pro Black fontpack for [connect-fonts](https://github.com/shane-tomlinson/connect-fonts).
+Source Code Pro fontpack for [connect-fonts](https://github.com/shane-tomlinson/connect-fonts).
 
 ## Usage
 
@@ -50,15 +50,15 @@ Available subsets:
 * latin
 * en
 
-5. Set your CSS up to use the new font by using the "Source Code Pro Black" font-family.
+5. Set your CSS up to use the new font by using the "Source Code Pro" font-family.
 ```
     body {
-      font-family: 'Source Code Pro Black', 'sans-serif', 'serif';
+      font-family: 'Source Code Pro', 'sans-serif', 'serif';
     }
 ```
 
 ## Font Info
-Source Code Pro Black
+Source Code Pro
 
 * Copyright: Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.
 * Trademark: Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.

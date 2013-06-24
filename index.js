@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-sourcecodepro",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -32,7 +32,7 @@ module.exports = {
   // Common font information
   "font_common": {
     "names": "sourcecodepro-black,sourcecodepro-bold,sourcecodepro-extralight,sourcecodepro-light,sourcecodepro-medium,sourcecodepro-regular,sourcecodepro-semibold",
-    "family": "Source Code Pro Black",
+    "family": "Source Code Pro",
     "copyright": "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.",
     "trademark": "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.",
     "manufacturer": "Adobe Systems Incorporated",
@@ -42,7 +42,7 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
@@ -55,43 +55,43 @@ module.exports = {
   // in the fonts directory.
   "fonts": {
       "sourcecodepro-black": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "900",
         "local": [ "Source Code Pro Black", "SourceCodePro-Black" ]
       },
       "sourcecodepro-bold": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "700",
         "local": [ "Source Code Pro Bold", "SourceCodePro-Bold" ]
       },
       "sourcecodepro-extralight": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "200",
         "local": [ "Source Code Pro ExtraLight", "SourceCodePro-ExtraLight" ]
       },
       "sourcecodepro-light": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "300",
         "local": [ "Source Code Pro Light", "SourceCodePro-Light" ]
       },
       "sourcecodepro-medium": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "500",
         "local": [ "Source Code Pro Medium", "SourceCodePro-Medium" ]
       },
       "sourcecodepro-regular": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "400",
         "local": [ "Source Code Pro", "SourceCodePro-Regular" ]
       },
       "sourcecodepro-semibold": {
-        "fontFamily": "Source Code Pro Black",
+        "fontFamily": "Source Code Pro",
         "fontStyle": "normal",
         "fontWeight": "600",
         "local": [ "Source Code Pro Semibold", "SourceCodePro-Semibold" ]

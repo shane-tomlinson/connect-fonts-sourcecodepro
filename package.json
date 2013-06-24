@@ -1,7 +1,7 @@
 {
   "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-sourcecodepro",
-  "description": "Source Code Pro Black font pack for connect-fonts",
+  "description": "Source Code Pro font pack for connect-fonts",
   "keywords": ["font", "font-face", "CSS", "connect-fonts", "sourcecodepro-black", "sourcecodepro-bold", "sourcecodepro-extralight", "sourcecodepro-light", "sourcecodepro-medium", "sourcecodepro-regular", "sourcecodepro-semibold"],
   "homepage": "https://github.com/shane-tomlinson/connect-fonts-sourcecodepro",
   "licenses": [
@@ -20,7 +20,7 @@
     "type": "git",
     "url": "https://github.com/shane-tomlinson/connect-fonts-sourcecodepro"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": ">= 0.4.7"
   },
